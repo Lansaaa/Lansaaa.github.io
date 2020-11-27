@@ -1,0 +1,23 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+a {
+    color: #0288d1;
+    text-decoration: none;
+}
